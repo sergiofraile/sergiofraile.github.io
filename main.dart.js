@@ -32832,7 +32832,7 @@ gk:function(a){var u=this.a,t=u[0],s=u[1],r=u[2]
 u=u[3]
 return Math.sqrt(t*t+s*s+r*r+u*u)}}
 F.zr.prototype={
-R:function(a){return new S.nh(new L.n4(null),"Flutter Demo",X.Oh(null,C.hj),null)}};(function aliases(){var u=H.mw.prototype
+R:function(a){return new S.nh(new L.n4(null),"The Walking Puffin",X.Oh(null,C.hj),null)}};(function aliases(){var u=H.mw.prototype
 u.vP=u.v
 u=H.og.prototype
 u.wD=u.am
